@@ -707,8 +707,6 @@ margin-bottom: 2rem;
 
 }
 
-/* Work on this */
-
 @media(max-width: 576px) {
     .hero {
         padding-right: 0.2rem;
@@ -745,13 +743,14 @@ margin-bottom: 2rem;
   margin-bottom: 10rem;
   max-width: 350px;
   border-radius: 40px;
-  margin-left: -7rem;
+  margin-left: -6rem;
 }
 
 .hours p {
     
     padding: 0.5rem 1rem;
 }
+
 
 
 
