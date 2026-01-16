@@ -707,6 +707,9 @@ margin-bottom: 2rem;
         gap: 0.5rem;
     }
 
+.hero-content {
+    padding: 2rem 0;
+    
     .summary .container {
         padding: 0;
     }
@@ -725,7 +728,7 @@ margin-bottom: 2rem;
        .test-content .test-two img {
            
  margin-top: -6rem;
-  margin-bottom: 6rem;
+  margin-bottom: 12rem;
   max-width: 300px;
   border-radius: 40px;
   margin-left: -6rem;
@@ -749,6 +752,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
