@@ -206,20 +206,28 @@ img {
 
 .hero {
     background: url(./Images/salon-3.jpeg) center center/cover no-repeat;
-    background-color: var(--dark-color);
-    opacity: 55%; 
     padding: 10.5rem 2rem 8rem;
-    color: #f1f4f6;
     overflow-x: hidden;
     position: relative;
     padding-bottom: 2rem;
     height: 100vh;
 }
 
-.hero .hero-content {
-    margin-top: 14rem;
+.hero-content {
     text-align: center;
+    font-size: 1.1rem;
 }
+
+.hero-content p {
+    padding: 0.5rem 0;
+}
+
+.hero-content span.contact {
+    text-decoration: none !important;
+    color: #000;
+}
+
+
 
 
 
@@ -228,7 +236,6 @@ img {
     line-height: 1.2;
     font-weight: 700;
     margin-bottom: 1.5rem;
-    text-shadow: 4px 2px 2px #000000;
 }
 
 .hero p {
@@ -236,12 +243,9 @@ img {
     margin-bottom: 2rem;
     line-height: 1.8;
     font-weight: 400;
-    text-shadow: 2px 2px 2px #000000;
 }
 
-.hero i {
-     text-shadow: 2px 2px 2px #000000;
-}
+
 
 .hero img {
     width: 110%;
@@ -716,7 +720,7 @@ margin-bottom: 2rem;
        .test-content .test-two img {
            
  margin-top: -6rem;
-  margin-bottom: 12rem;
+  margin-bottom: 6rem;
   max-width: 300px;
   border-radius: 40px;
   margin-left: -6rem;
@@ -730,6 +734,7 @@ margin-bottom: 2rem;
 }
 
        .hours .hours-img img {
+
   margin-bottom: 5rem;
   max-width: 350px;
   border-radius: 40px;
@@ -739,8 +744,6 @@ margin-bottom: 2rem;
 
 
 }
-
-
 
 
 
