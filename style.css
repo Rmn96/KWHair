@@ -205,7 +205,7 @@ img {
 .hero {
     background: url(./Images/salon-3.jpeg) center center/cover no-repeat;
      background-color: var(--dark-color);
-    background-blend-mode: overlay;
+    background-blend-mode: screen;
     opacity: 85%;
     padding: 10.5rem 2rem 8rem;
     overflow-x: hidden;
@@ -751,6 +751,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
