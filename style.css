@@ -717,7 +717,7 @@ margin-bottom: 2rem;
        .test-content .test-two img {
            
  margin-top: -6rem;
-  margin-bottom: 6rem;
+  margin-bottom: 12rem;
   max-width: 300px;
   border-radius: 40px;
   margin-left: -6rem;
@@ -731,7 +731,6 @@ margin-bottom: 2rem;
 }
 
        .hours .hours-img img {
-
   margin-bottom: 5rem;
   max-width: 350px;
   border-radius: 40px;
@@ -741,6 +740,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
