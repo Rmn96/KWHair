@@ -220,6 +220,7 @@ img {
 .hero-content {
     text-align: center;
     font-size: 1.1rem;
+      text-decoration: none;
 }
 
 .hero-content p {
@@ -228,7 +229,7 @@ img {
 
 .hero-content span.contact {
     text-decoration: none;
-    color: #000000;
+    color: #FF0000;
 }
 
 span.contact {
@@ -750,6 +751,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
