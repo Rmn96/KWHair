@@ -229,11 +229,12 @@ img {
 
 .hero-content span.contact {
     text-decoration: none;
-    color: #FF0000;
+    color: #0000;
 }
 
 span.contact {
            text-decoration: none;
+        color: #0000;
 }
 
 
@@ -751,6 +752,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
