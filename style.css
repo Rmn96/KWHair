@@ -23,10 +23,6 @@ a {
     text-decoration: none;
 }
 
-p {
-  text-decoration: none;
-}
-
 ul {
     list-style: none;
 }
@@ -671,7 +667,7 @@ margin-bottom: 2rem;
 
     .test-content .test-two img {
   margin-top: -6rem;
-  margin-bottom: 12rem;
+  margin-bottom: 14rem;
   max-width: 550px;
   border-radius: 40px;
   margin-left: -10rem;
@@ -753,6 +749,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
