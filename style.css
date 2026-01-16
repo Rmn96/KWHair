@@ -220,21 +220,22 @@ img {
 .hero-content {
     text-align: center;
     font-size: 1.1rem;
-      text-decoration: none;
+  
 }
 
 .hero-content p {
     padding: 0.5rem 0;
+     text-decoration: none;
 }
 
 .hero-content span.contact {
     text-decoration: none;
-    color: #0000;
+    color: #0A0A0A;
 }
 
 span.contact {
            text-decoration: none;
-        color: #0000;
+        color: #0A0A0A;
 }
 
 
@@ -752,6 +753,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
