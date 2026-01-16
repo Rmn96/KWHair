@@ -664,7 +664,7 @@ margin-bottom: 2rem;
     .test-content .test-two img {
   margin-top: -6rem;
   margin-bottom: 12rem;
-  max-width: 550px;
+  max-width: 350px;
   border-radius: 40px;
   margin-left: -10rem;
 }
@@ -678,8 +678,6 @@ margin-bottom: 2rem;
 }
 
 }
-
-/* Work on this */
 
 @media(max-width: 576px) {
     .hero {
@@ -747,6 +745,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
