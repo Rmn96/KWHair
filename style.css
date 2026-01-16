@@ -679,7 +679,6 @@ margin-bottom: 2rem;
 
 }
 
-/* Work on this */
 
 @media(max-width: 576px) {
     .hero {
@@ -702,6 +701,9 @@ margin-bottom: 2rem;
         flex-direction: column;
         gap: 0.5rem;
     }
+
+    .hero-content {
+        padding-top: 2rem;
 
     .summary .container {
         padding: 0;
@@ -745,6 +747,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
