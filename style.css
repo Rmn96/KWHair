@@ -620,7 +620,10 @@ margin-bottom: 2rem;
     .section-header p, .section-header-2 p {
         text-align: left;
      }
-
+ .section-header p {
+padding: 1rem 0;
+ }
+    
 .test-content .test-one {
   margin-top: -3rem;
 
@@ -671,6 +674,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
