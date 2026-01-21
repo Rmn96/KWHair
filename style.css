@@ -262,7 +262,7 @@ img {
   gap: 2rem;
 }
 
-/* Course Summary */
+/*Summary */
 
 .summary {
     background-color: var(--light-color);
@@ -356,45 +356,7 @@ margin-bottom: 2rem;
     padding: 0 2rem;
 }
 
-
-
-/* Mobile Menu */
-.mobile-menu {
-    display: none;
-    
-}
-
-
-.navbar .mobile-menu-toogle {
-    color: var(--light-color);
-    cursor: pointer;
-}
-
-.navbar .mobile-menu-items {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: 100%;
-    background-color: #272d35; 
-    opacity: 0.95;
-    padding: 3rem 2rem;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    border-top: 1px solid rgba(250, 250, 250, 0.1);
-    transform: translateX(100%);
-    transition: transform 0.5s ease;
-}
-
-.navbar .mobile-menu-items.active {
-    transform: translateX(0);
-}
-
-.navbar .mobile-menu-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-    font-size: 1.2rem;
-}
+/*Topics*/
 
 .topics {
     display: grid;
@@ -756,6 +718,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
