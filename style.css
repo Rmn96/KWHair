@@ -11,6 +11,7 @@
 
 html, body {
     font-family: 'Open Sans', 'sans-serif';
+    font-display: optional;
     line-height: 1.6;
     scroll-behavior: smooth; 
 }
@@ -755,6 +756,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
