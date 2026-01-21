@@ -11,7 +11,7 @@
 
 html, body {
     font-family: 'Open Sans', 'sans-serif';
-    font-display: optional;
+    font-display: swap;
     line-height: 1.6;
     scroll-behavior: smooth; 
 }
@@ -182,29 +182,12 @@ img {
 }
 
 
-.navbar .main-menu-list {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-    font-weight: 500;
-}
 
-.navbar a {
-    color: var(--light-color);
-}
-
-.navbar a:hover {
-    color: var(--secondary-color);
-}
-
-.navbar .nav-icon i {
-    font-size: 1.5rem;
-}
 
 /* Hero */
 
 .hero {
-    background: url(./Images/salon-3.jpeg) center center/cover no-repeat;
+    background: url(./Images/salon-3.avif) center center/cover no-repeat;
      background-color: var(--dark-color);
     background-blend-mode: screen;
     opacity: 90%;
@@ -718,6 +701,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
