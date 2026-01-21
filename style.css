@@ -644,9 +644,11 @@ margin-bottom: 2rem;
 
 
        .test-content .test-two img {
- margin-bottom: 5rem;
+marign-left: 4rem;
+margin-bottom: 5rem;
   max-width: 350px;
   border-radius: 40px;
+        
 
 
 }
@@ -667,6 +669,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
