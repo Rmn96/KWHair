@@ -586,7 +586,7 @@ margin-bottom: 2rem;
 .chapter-cards {
   display: grid;
   gap: 2rem;
-  padding: 1rem 0 4rem;
+  padding: 1rem 4rem;
 }
 
 }
@@ -633,6 +633,11 @@ margin-bottom: 2rem;
         padding: 0;
     }
 
+    .chapter-cards {
+  display: grid;
+  gap: 2rem;
+  padding: 1rem 4rem;
+}
     
    .test-content {
     display: column;
@@ -654,8 +659,6 @@ margin-bottom: 2rem;
     border-radius: 40px;
     margin-left: -7.8rem;
         
-
-
 }
 
 .hours p {
@@ -674,6 +677,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
