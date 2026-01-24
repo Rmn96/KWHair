@@ -429,7 +429,7 @@ margin-bottom: 2rem;
     .topics {
         grid-template-columns: repeat(2, 1fr);
     }
-}
+
 
 
 @media(max-width: 992px) {
@@ -441,7 +441,7 @@ margin-bottom: 2rem;
 .test-content .test-two {
  margin-top: 3rem;
     margin-bottom: 2rem;
-   /* width: 30%; */
+  
 }
 
 .test-content .test-two img {
@@ -450,6 +450,10 @@ margin-bottom: 2rem;
   max-width: 350px;
   border-radius: 40px;
   margin-left: -7.5rem;
+}
+
+.section-header p {
+    padding: 1rem 2rem;
 }
 
 .section-header-2 h2 {
@@ -677,6 +681,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
