@@ -606,6 +606,10 @@ margin-left: -4.5rem;
         margin-top: 1rem;
     }    
 
+    .hero-content {
+        margin-top: 1rem;
+    }
+
     .hero .contact {
         flex-direction: column;
         gap: 0.5rem;
@@ -682,6 +686,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
