@@ -501,15 +501,14 @@ margin-bottom: 2rem;
         margin-top: 2rem;
     }
 
- .topics {
-     grid-template-columns: repeat(1, 1fr);
- }
+
 
     .topics {
-    grid-template-columns: repeat(1, 2fr);
-    margin-top: -1rem;
-    margin-bottom: 8rem;
-    padding: 1rem;
+   grid-template-columns: repeat(2, 2fr);
+      margin-top: -1rem;
+      margin-bottom: 8rem;
+      padding: 4rem;
+    }
     }  
     
  
@@ -698,6 +697,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
