@@ -496,12 +496,13 @@ margin-left: -4.5rem;
     }  
     
  
-        .chapter-cards {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 2rem;
-            padding: 1rem 0 4rem;
-        }
+    
+     .chapter-cards {
+  display: grid;
+  gap: 2rem;
+  padding: 1rem 4rem;
+}
+        
 
          .chapter-cards img {
          width: 260px;
@@ -681,6 +682,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
