@@ -493,7 +493,7 @@ margin-left: -4.5rem;
       margin-bottom: 8rem;
       padding: 4rem;
     }
-    }  
+    
     
  
     
@@ -531,9 +531,9 @@ margin-left: -4.5rem;
   
   }
 
-    .section-header p, .section-header-2 p {
+   .section-header p, .section-header-2 p {
         text-align: left;
-        padding: 1rem 0;
+        padding: 1rem 1rem;
      }
 
 
@@ -558,13 +558,12 @@ margin-left: -4.5rem;
         font-size: 1rem;
     }
 
-    .info-content ul li {
-        font-size: 1rem;
-        
-    }
-
-    .info-left {
-        display: none;
+   
+    .topics {
+   grid-template-columns: repeat(2, 2fr);
+      margin-top: -1rem;
+      margin-bottom: 8rem;
+      padding: 4rem;
     }
 
     .test-content .test-one {
@@ -686,6 +685,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
