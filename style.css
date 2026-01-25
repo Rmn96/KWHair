@@ -635,6 +635,7 @@ margin-bottom: 2rem;
 
      .topics {
     grid-template-columns: repeat(1, 2fr);
+    margin-top: -1rem;
     margin-bottom: 8rem;
     padding: 1rem;
     }  
@@ -687,6 +688,7 @@ margin-bottom: 2rem;
 
 
 }
+
 
 
 
