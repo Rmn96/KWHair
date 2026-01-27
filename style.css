@@ -427,6 +427,12 @@ margin-bottom: 2rem;
             margin-top: -10rem;
         }
 
+        .test-content .test-one {
+            width: 95%;
+            display: column;
+            padding-top: -2rem;
+        
+    
     .topics {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -793,6 +799,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
