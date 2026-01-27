@@ -748,6 +748,7 @@ margin-left: -4.5rem;
 
 .chapter-cards {
       display: grid;
+    grid-template-columns: repeat(1, 1fr);
       gap: 2rem;
       padding: 1rem 0 4rem;
     }
@@ -790,6 +791,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
