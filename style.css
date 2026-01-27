@@ -431,7 +431,11 @@ margin-bottom: 2rem;
         grid-template-columns: repeat(2, 1fr);
     }
 
-
+@media (max-width: 1180px) {
+    .topics {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
 
 @media(max-width: 992px) {
 .test-content {
@@ -686,6 +690,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
