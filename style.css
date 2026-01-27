@@ -727,7 +727,7 @@ margin-left: -4.5rem;
 
     .section-header-2 p {
     text-align: left;
-    padding: 1rem;
+    
     }
     
 .test-content .test-one {
@@ -760,7 +760,7 @@ margin-left: -4.5rem;
 
     .test-content .test-one {
   width: 85%;
-          display: column;
+          display: column;e
          padding-top:-2rem;
 }
 
@@ -792,6 +792,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
