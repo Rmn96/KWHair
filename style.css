@@ -426,13 +426,6 @@ margin-bottom: 2rem;
             margin-bottom: 1rem;
             margin-top: -10rem;
         }
-
-        .test-content .test-one {
-            width: 95%;
-            display: column;
-            padding-top: -2rem;
-
-        }
         
     
     .topics {
@@ -666,7 +659,6 @@ margin-left: -4.5rem;
    } 
 
     .test-content .test-one {
-  width: 95%;
           display: column;
          padding-top:-2rem;
 }
@@ -739,7 +731,6 @@ margin-left: -4.5rem;
     }
     
 .test-content .test-one {
-    width: 95%;
   margin-top: -3rem;
 
 }
@@ -801,6 +792,7 @@ margin-left: -4.5rem;
 
 
 }
+
 
 
 
