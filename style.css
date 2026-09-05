@@ -162,9 +162,9 @@ img {
 
 .hero {
     background: url(./Images/kw-hair-salon-2.png) center center/cover no-repeat;
-     background-color: var(--dark-color);
-    background-blend-mode: screen;
-    opacity: 90%;
+    background-color: var(--dark-color);
+  background-blend-mode: overlay;
+  opacity: 95%;
     padding: 10.5rem 2rem 8rem;
     position: relative;
     height: 100vh;
