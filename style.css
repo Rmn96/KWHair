@@ -380,6 +380,7 @@ margin-bottom: 2rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     border-radius: 40px;
+    max-width: 35rem;
 }
 
 /* Footer */
@@ -425,7 +426,7 @@ margin-bottom: 2rem;
     .hero h1 {
             font-size: 3rem;
             margin-bottom: 1rem;
-            margin-top: -10rem;
+            margin-top: -4rem;
         }
      .hero .hero-content {
          margin-left: 1rem;
